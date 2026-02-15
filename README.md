@@ -1,2 +1,2 @@
 # stamford-csc231-final-project
-Feature-Guided CNN-Based Object Tracking
+Feature-Based Moving Object Tracking System
